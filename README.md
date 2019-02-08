@@ -1,2 +1,2 @@
 # SL
-Applying MLP neural network to classifications and regression problems.
+Applying MLP neural networks to classifications and regression problems.
